@@ -1,4 +1,4 @@
-// Simple Addition Calculator
+// SIMPLE ADDITION CALCULATOR
 
 // Add Event Listener to the Button
 document.getElementById("btn").addEventListener("click", calcTotal);
